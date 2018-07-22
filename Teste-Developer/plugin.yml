@@ -1,0 +1,37 @@
+name: Curso                              # Nome do projeto
+main: me.jcraftplay.curso.Main           # Nome do arquivo main no Eclips
+version: 1.0 #Versao
+depend: [JLAPI]
+commands:
+  homes:
+  home:
+  sethome:
+  delhome:
+  ola:
+  darcaixa:
+  mistureba:
+  temporizador:
+    aliases: [temp]
+  delay:
+  sumonar:
+  eban:
+  gui:
+    permission: usar.eban
+  setwarp:
+    permission: setar.warp
+  warp:
+  warps:
+  delwarp:
+    permission: deletar.warp
+  luz:
+  aluz:
+  tluz:
+  spawn:
+  setspawn:
+    permission: setar.spawn
+  fly:
+    permission: usar.fly
+  gamemode:
+    aliases: [gm]
+    permission: gamemode.true
+  darcaixa:

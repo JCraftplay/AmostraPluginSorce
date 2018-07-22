@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EduardAPI-master"/>
+	<classpathentry kind="lib" path="C:/Users/JOSE LUIZ/Desktop/Curso/spigot.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://jd.bukkit.org/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Dev/Plugins.jar/5-PluginsAPI/ActionBarAPI-1.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Plugins.jar/5-PluginsAPI/BarAPI.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Plugins.jar/5-PluginsAPI/Citizens.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Plugins.jar/5-PluginsAPI/NametagEdit.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Plugins.jar/5-PluginsAPI/Vault.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Plugins.jar/5-PluginsAPI/Titles.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
