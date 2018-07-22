@@ -1,3 +1,0 @@
-// This file declares any user specific prefixes and suffixes set with the /ne command.
-Notch prefix = "&b< &a"
-Notch suffix = " &b>"
